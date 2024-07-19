@@ -15,8 +15,9 @@ function App() {
 <Thirdpoint/>
 <Fourthpoint/>
 <TwoWayData/>
+
+<DynimacallyAddChildComponents/>
 <SumToNumber/>
-{/* <DynimacallyAddChildComponents/> */}
    </>
   );
 }

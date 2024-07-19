@@ -11,7 +11,7 @@ const SumToNumber = () => {
     <div className=" first-point  shadow-lg mt-3">
       <div className="py-4 px-4">
         <h3 className=" text-center">Point Six</h3>
-        <h5 className=" text-center">6. Sum of Two Numbers </h5>
+        <h5 className=" text-center">7. Sum of Two Numbers </h5>
         <h5 className="text-center">Type A number</h5>
         <div className=" d-flex gap-3">
           <div className="">
